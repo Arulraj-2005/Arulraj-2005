@@ -14,10 +14,11 @@
 - 🎓 B.E. CSE (AI & ML) @ **Rathinam Technical Campus**, Coimbatore | Class of **2027**
 - ☁️ **AWS Certified Cloud Practitioner** | Oracle Cloud AI Foundations Certified
 - 🤖 Building **Jarvis AI Agent** — powered by Groq API + LLaMA 3.3
+- 🅿️ Building **Smart Parking System** — full-stack app with real-time maps & Razorpay payments
 - 🚀 Passionate about **AI/ML**, **Cloud-Native DevOps**, and **Full-Stack Development**
 - 🏆 Currently cracking campus placements — targeting AI/ML & SWE roles
 - 📍 Based in **Coimbatore, Tamil Nadu**
-
+  
 ---
 
 ### 🛠️ Tech Stack
